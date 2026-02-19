@@ -1,4 +1,7 @@
 {
   "cssTheme": "Dracula Gemini",
-  "accentColor": "#753eac"
+  "accentColor": "#753eac",
+  "textFontFamily": "Courier",
+  "monospaceFontFamily": "Courier",
+  "interfaceFontFamily": "Courier"
 }
