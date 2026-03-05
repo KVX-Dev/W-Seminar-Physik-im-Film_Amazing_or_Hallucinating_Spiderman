@@ -12,3 +12,4 @@
 - [ ] elastizität beim Freien Fall
 - [ ] Kraft zum Springen etc.
 - [ ] Biologische Materialien etc.
+- [ ] Würde de Arm abreißen wenn ich aus dem Freien fall rausschwingen -> wie bei spider man 
