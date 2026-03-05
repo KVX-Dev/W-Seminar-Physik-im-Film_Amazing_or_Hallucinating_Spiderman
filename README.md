@@ -3,6 +3,7 @@
 
 
 - [ ] Programm zur Simulation von Fäden und Fäden Struktur (Suchen)
+- [ ] 	Finite-Elemente-Methode (FEM) – Für präzise Ingenieurtechnik (als ersatz) open source 
 - [ ] Faden Analyse (was macht Fäden aus)
 - [ ] Struktur von echten Spinnenfäden
 - [ ] Struktur von richtigen "Normalen" Fäden
