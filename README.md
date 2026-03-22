@@ -3,7 +3,6 @@
 
 
 - [ ] Programm zur Simulation von Fäden und Fäden Struktur (Suchen)
-- [ ] 	Finite-Elemente-Methode (FEM) – Für präzise simulationen (als ersatz) open source 
 - [ ] Faden Analyse (was macht Fäden aus)
 - [ ] Struktur von echten Spinnenfäden
 - [ ] Struktur von richtigen "Normalen" Fäden
@@ -13,4 +12,3 @@
 - [ ] elastizität beim Freien Fall
 - [ ] Kraft zum Springen etc.
 - [ ] Biologische Materialien etc.
-- [ ] Würde de Arm abreißen wenn ich aus dem Freien fall rausschwingen -> wie bei spider man 

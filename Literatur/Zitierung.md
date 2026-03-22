@@ -1,0 +1,1 @@
+[[In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf|In vitro-Untersuchungen zur Zytokompatibilität von Spinnenseide als Matrix in der Zellkultur, von Jörn Wolfram Kuhbier, aus 2013]]
