@@ -12,3 +12,4 @@
 - **Pendelphysik:** Berechnung der Zentripetalkraft im tiefsten Punkt des Schwungs ($F_z = m \cdot \frac{v^2}{r}$). 
 	- Diese Kraft addiert sich zum Körpergewicht (?)
 # 3. Simulation mit Open-Source-FEM
+

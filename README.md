@@ -12,3 +12,8 @@
 - [ ] elastizität beim Freien Fall
 - [ ] Kraft zum Springen etc.
 - [ ] Biologische Materialien etc.
+
+
+
+- [ ] [[Physikalische Grundlagen]]
+- [ ] 

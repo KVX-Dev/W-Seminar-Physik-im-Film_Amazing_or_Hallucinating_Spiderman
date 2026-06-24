@@ -74,9 +74,61 @@
               "icon": "lucide-file",
               "title": "Brainstorm"
             }
+          },
+          {
+            "id": "6de696f32ed07bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorm"
+            }
+          },
+          {
+            "id": "3f89dccf080c5615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log"
+            }
+          },
+          {
+            "id": "baa4943a5e218af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log"
+            }
+          },
+          {
+            "id": "e83241a482ab87d8",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -237,15 +289,19 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
       "iconic:Regelbuch öffnen": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "263d9c8cbabfed5d",
+  "active": "e83241a482ab87d8",
   "lastOpenFiles": [
-    "README.md",
-    "Literatur/Zitierung.md",
-    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
+    "Contacts.md",
+    "Log.md",
     "Brainstorm.md",
+    "Physikalische Grundlagen.md",
+    "Literatur/Zitierung.md",
+    "README.md",
+    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
     "Literatur",
     "Untitled 1",
     "Assets"
