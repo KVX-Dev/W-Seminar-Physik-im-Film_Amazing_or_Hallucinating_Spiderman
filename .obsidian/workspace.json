@@ -197,14 +197,12 @@
             "id": "76291bfacca42d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Literatur/Zitierung.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Zitierung"
+              "icon": "lucide-file-text",
+              "title": "In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur"
             }
           }
         ],
@@ -370,15 +368,21 @@
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "iconic:Open rulebook": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "citeme:CiteMe: Search citations": false
     }
   },
   "active": "76291bfacca42d59",
   "lastOpenFiles": [
-    "Brainstorm.md",
-    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
+    "~WRL0566.tmp",
+    "~WRD0562.tmp",
     "Assets/Physik-Im-Film_W-Seminar-Kevin-Xie.pdf",
     "Literatur/Zitierung.md",
+    "~$Seminar_Citations.docx",
+    "w-Seminar_Citations.docx",
+    "~WRD0001.tmp",
+    "Brainstorm.md",
+    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
     "Contacts.md",
     "Geometrieerstellung KI.md",
     "Log.md",
