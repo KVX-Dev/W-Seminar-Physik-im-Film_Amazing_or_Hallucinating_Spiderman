@@ -123,8 +123,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           },
           {
@@ -185,16 +185,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorm.md",
+                "file": "Literatur/Zitierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorm"
+              "title": "Zitierung"
+            }
+          },
+          {
+            "id": "76291bfacca42d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literatur/Zitierung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zitierung"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -359,19 +373,19 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f35f7898d715f238",
+  "active": "76291bfacca42d59",
   "lastOpenFiles": [
+    "Brainstorm.md",
+    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
+    "Assets/Physik-Im-Film_W-Seminar-Kevin-Xie.pdf",
+    "Literatur/Zitierung.md",
     "Contacts.md",
     "Geometrieerstellung KI.md",
     "Log.md",
     "PrePoMax - Anleitung - KI.md",
     "Physikalische Grundlagen.md",
-    "Assets/Physik-Im-Film_W-Seminar-Kevin-Xie.pdf",
     "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
-    "Brainstorm.md",
     "README.md",
-    "Literatur/Zitierung.md",
-    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
     "Literatur",
     "Untitled 1",
     "Assets"
