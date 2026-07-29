@@ -1,7 +1,7 @@
 {
   "cssTheme": "Brainhack",
   "accentColor": "#3390d7",
-  "textFontFamily": "Courier",
-  "monospaceFontFamily": "Courier",
-  "interfaceFontFamily": "Courier"
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
 }

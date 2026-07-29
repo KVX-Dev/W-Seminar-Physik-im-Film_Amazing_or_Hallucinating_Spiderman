@@ -123,8 +123,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -168,9 +168,33 @@
               "icon": "lucide-file",
               "title": "PrePoMax - Anleitung - KI"
             }
+          },
+          {
+            "id": "931cea5b9325d4eb",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "f35f7898d715f238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorm"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -193,7 +217,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -323,27 +347,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "iconic:Regelbuch öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
+      "iconic:Open rulebook": false,
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "ca68a1ed0b7d8d04",
+  "active": "f35f7898d715f238",
   "lastOpenFiles": [
+    "Contacts.md",
     "Geometrieerstellung KI.md",
-    "PrePoMax - Anleitung - KI.md",
     "Log.md",
+    "PrePoMax - Anleitung - KI.md",
     "Physikalische Grundlagen.md",
     "Assets/Physik-Im-Film_W-Seminar-Kevin-Xie.pdf",
     "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
-    "Contacts.md",
     "Brainstorm.md",
     "README.md",
     "Literatur/Zitierung.md",
