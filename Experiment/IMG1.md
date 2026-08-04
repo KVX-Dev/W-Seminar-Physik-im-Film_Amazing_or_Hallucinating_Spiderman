@@ -1,0 +1,1 @@
+![[2026_08_04-Spinnenfäden_4x_1.png]]![[2026_08_04-Spinnenfäden_10x_1.png]]![[2026_08_04-Spinnenfäden_40x_1.png]]![[2026_08_04-Spinnenfäden_40x_2.png]]
