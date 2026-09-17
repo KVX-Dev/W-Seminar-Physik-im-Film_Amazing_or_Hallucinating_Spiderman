@@ -1,4 +1,4 @@
-## 1. Die Brückenszene / Autorettung (_The Amazing Spider-Man 1_)
+## Die Brückenszene / Autorettung (_The Amazing Spider-Man 1_)
 ### A. Szenenanalyse & physikalischer Kontext
 Spider-Man hält ein abstürzendes Auto (Mittelklassewagen inkl. Insasse, Masse $M \approx 1500\,\text{kg}$) an einem einzelnen, dünnen Spinnenfaden unter der [[2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge|Williamsburg Bridge]]. Das Auto hängt schwingend in der Luft und wird statisch gehalten.
 ### B. Physikalische Formeln & Herleitung
