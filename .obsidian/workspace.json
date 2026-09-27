@@ -325,8 +325,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -412,9 +412,19 @@
               "icon": "lucide-file",
               "title": "2026-08-22"
             }
+          },
+          {
+            "id": "a6259dcbc889e235",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -581,7 +591,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "597617a2a97ef8be",
+  "active": "a6259dcbc889e235",
   "lastOpenFiles": [
     "2026-09-17.md",
     "2026-09-17 Gwen-Stacy_Experiment.md",
