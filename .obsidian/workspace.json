@@ -452,15 +452,29 @@
               "type": "markdown",
               "state": {
                 "file": "2026-09-17_Web-Swinging_Experiment.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2026-09-17_Web-Swinging_Experiment"
             }
+          },
+          {
+            "id": "036054ae6824017f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-01 Mögliche Fragen für das Interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-01 Mögliche Fragen für das Interview"
+            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -627,10 +641,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6bd7d4ded2ca4257",
+  "active": "036054ae6824017f",
   "lastOpenFiles": [
-    "2026-09-17 Gwen-Stacy_Experiment.md",
     "2026-09-17_Web-Swinging_Experiment.md",
+    "2026-10-01 Mögliche Fragen für das Interview.md",
+    "2026-09-17 Gwen-Stacy_Experiment.md",
     "Assets/2026_08_04-Spinnenfäden_10x_1.png",
     "Assets/2026_08_04-Spinnenfäden_4x_1.png",
     "Assets/2026_08_04-Spinnenfäden_40x_1.png",
