@@ -441,8 +441,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -472,9 +472,19 @@
               "icon": "lucide-file",
               "title": "2026-10-01 Mögliche Fragen für das Interview"
             }
+          },
+          {
+            "id": "5f7ae9097351b98d",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -641,7 +651,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "036054ae6824017f",
+  "active": "5f7ae9097351b98d",
   "lastOpenFiles": [
     "2026-09-17_Web-Swinging_Experiment.md",
     "2026-10-01 Mögliche Fragen für das Interview.md",
