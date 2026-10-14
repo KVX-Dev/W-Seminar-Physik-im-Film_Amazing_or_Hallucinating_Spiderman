@@ -21,5 +21,6 @@ Experimentelle Überprüfung der Abhängigkeit der maximalen Zentripetalbeschleu
 2. In **phyphox** wird das Modul _„Beschleunigung mit g“_ gestartet.
 3. Das Pendel wird nacheinander auf verschiedene definierte Winkel ($\theta_0 = 30^\circ, 45^\circ, 60^\circ, 90^\circ$) ausgelenkt und ohne Anfangsgeschwindigkeit losgelassen.
 4. Die App zeichnet den zeitlichen Verlauf der Beschleunigung auf. Der Peak im tiefsten Punkt der Pendelbahn wird ausgelesen.
+5. mit Personen im echten Leben vergleichen und dann auf verschiedene Szenen rechnen 
 #### **Hypotese**
 - Das Handy wird niemals über die Höhe schwingen von welcher dieses losgelassen wurde
