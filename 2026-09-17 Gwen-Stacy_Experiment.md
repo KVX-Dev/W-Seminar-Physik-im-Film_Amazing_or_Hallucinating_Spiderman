@@ -42,3 +42,14 @@ Quantifizierung der auftretenden Stoßkraftspitze $F_{\text{Stoß}}$ und der max
 
 $a_{max}$ maximale negative Beschleunigung = maximale Bremsgeschwindigkeit
 $F_{Stoß}$ die maximale Stoßkraft $F_{\text{Stoß}} = m \cdot (g + a_{\text{max}})$ 
+
+
+## Ergebnisse:
+### Angelschnur:
+![[Acceleration (without g) 2026-10-15 15-34-31.xlsx|Angelschnur]]
+### Weiße Wolle:
+![[Acceleration (without g) 2026-10-15 15-32-17.xlsx|weiße wolle]]
+### Weißes Paracord:
+![[Acceleration (without g) 2026-10-15 15-29-39.xlsx|weißes paracord]]
+### Blau Rotes Paracord:
+![[Acceleration (without g) 2026-10-15 15-27-45.xlsx|blaurot Pracord]]

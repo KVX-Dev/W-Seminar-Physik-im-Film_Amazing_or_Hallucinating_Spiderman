@@ -479,8 +479,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -522,9 +522,47 @@
               "icon": "lucide-file-text",
               "title": "Physik-Im-Film_W-Seminar-Kevin-Xie 1"
             }
+          },
+          {
+            "id": "94fbc4903467821a",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "2c25b4e6ae3b68a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-17 Gwen-Stacy_Experiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-17 Gwen-Stacy_Experiment"
+            }
+          },
+          {
+            "id": "79ea9507d30df26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-17 Gwen-Stacy_Experiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-17 Gwen-Stacy_Experiment"
+            }
           }
         ],
-        "currentTab": 39
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -691,21 +729,29 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "139ea394c1d584ea",
+  "active": "79ea9507d30df26b",
   "lastOpenFiles": [
+    "2026-09-17 Spidy vs Lizard.md",
+    "2026-09-17 Gwen-Stacy.md",
+    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
+    "Assets/2026_08_04-Spinnenfäden_40x_2.png",
+    "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
+    "2026-09-17 Gwen-Stacy_Experiment.md",
+    "Assets/~$Acceleration (without g) 2026-10-15 15-32-17.xlsx",
+    "Assets/~$Acceleration (without g) 2026-10-15 15-34-31.xlsx",
+    "Assets/Acceleration (without g) 2026-10-15 15-27-45.xlsx",
+    "Assets/Acceleration (without g) 2026-10-15 15-29-39.xlsx",
+    "Assets/Acceleration (without g) 2026-10-15 15-32-17.xlsx",
+    "Assets/Acceleration (without g) 2026-10-15 15-34-31.xlsx",
     "2026-10-14 Interview.md",
     "2026-10-01 Mögliche Fragen für das Interview.md",
     "2026-09-17_Web-Swinging_Experiment.md",
     "2026-09-17 Web-Swinging.md",
     "2026-08-22.md",
-    "2026-09-17 Gwen-Stacy_Experiment.md",
     "Assets/2026_08_04-Spinnenfäden_10x_1.png",
     "Assets/2026_08_04-Spinnenfäden_4x_1.png",
     "Assets/2026_08_04-Spinnenfäden_40x_1.png",
-    "2026-09-17 Gwen-Stacy.md",
-    "2026-09-17 Spidy vs Lizard.md",
     "2026-09-17.md",
-    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
     "2026-09-17 Brückenscene_Autorettung.md",
     "Spinnenarten_Nephila Clavipes.md",
     "Assets/IMG_9796.jpeg",
@@ -715,7 +761,6 @@
     "Assets/IMG_9793.jpeg",
     "Assets/IMG_9792.jpeg",
     "Spinnenarten.md",
-    "Assets/new-york-williamsburg-bridge.webp",
     "2026-09-17 Brückenszene",
     "PreProMax/Sollte ich PrePoMax benutzen?.md",
     "PreProMax",
@@ -725,17 +770,10 @@
     "Brainstorm.md",
     "README.md",
     "Physikalische Grundlagen.md",
-    "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
     "Experiment/IMG1.md",
     "Experiment/Experiment_1.md",
     "Experiment",
-    "~$Seminar_Citations.docx",
-    "Assets/In_vitro-Untersuchungen_zur_Zytokompatibilität_von_Spinnenseide_als_Matrix_in_der_Zellkultur.pdf",
-    "~WRL0566.tmp",
-    "~WRD0562.tmp",
-    "Assets/Physik-Im-Film_W-Seminar-Kevin-Xie.pdf",
     "Literatur/Zitierung.md",
-    "w-Seminar_Citations.docx",
     "PreProMax/PrePoMax - Anleitung - KI.md"
   ]
 }
