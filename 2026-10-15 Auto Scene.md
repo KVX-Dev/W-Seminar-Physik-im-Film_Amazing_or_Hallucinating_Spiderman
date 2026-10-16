@@ -1,4 +1,4 @@
-https://www.movy.sx/movie/1930
+yxhttps://www.movy.sx/movie/1930
 1:13:23 - 1:14:16
 ![[Screenshot 2026-10-15 160302.png]]![[Screenshot 2026-10-15 160302 1.png]]
 

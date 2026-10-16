@@ -123,8 +123,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -595,8 +595,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -612,9 +612,29 @@
               "icon": "lucide-file",
               "title": "2026-09-17 Spidy vs Electron 2"
             }
+          },
+          {
+            "id": "12585c7c83da48d5",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "350c299a6d1f6228",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -781,18 +801,19 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "1a177180496baa2b",
+  "active": "58d9d7d8f311180c",
   "lastOpenFiles": [
-    "2026-09-17 Spidy vs Electron.md",
-    "2026-09-17 Spidy vs Electron 2.md",
-    "2026-09-17 Web-Swinging.md",
+    "Experiment1 Bilder.md",
     "2026-10-15 Auto Scene.md",
+    "2026-09-17 Gwen-Stacy.md",
+    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
+    "2026-09-17 Spidy vs Electron 2.md",
+    "2026-09-17 Spidy vs Electron.md",
+    "2026-09-17 Web-Swinging.md",
     "2026-10-14 Interview.md",
     "2026-09-17_Web-Swinging_Experiment.md",
     "2026-09-17 Brückenscene_Autorettung.md",
-    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
     "2026-09-17 Gwen-Stacy_Experiment.md",
-    "2026-09-17 Gwen-Stacy.md",
     "Assets/Screenshot 2026-10-15 165140.png",
     "Assets/Screenshot 2026-10-15 165230.png",
     "Assets/Pasted image 20261015165310.png",
@@ -827,7 +848,6 @@
     "Physikalische Grundlagen.md",
     "Experiment/IMG1.md",
     "Experiment/Experiment_1.md",
-    "Experiment",
-    "Literatur/Zitierung.md"
+    "Experiment"
   ]
 }
