@@ -123,8 +123,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           },
           {
@@ -529,8 +529,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -588,9 +588,33 @@
               "icon": "lucide-file",
               "title": "2026-09-17 Spidy vs Electron"
             }
+          },
+          {
+            "id": "0f356a6c519b78cf",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "1a177180496baa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-17 Spidy vs Electron 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-17 Spidy vs Electron 2"
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -615,7 +639,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -745,37 +769,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "omnisearch:Omnisearch": false,
-      "iconic:Open rulebook": false,
+      "iconic:Regelbuch öffnen": false,
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "4f6809c72354e1b1",
+  "active": "1a177180496baa2b",
   "lastOpenFiles": [
+    "2026-09-17 Spidy vs Electron.md",
+    "2026-09-17 Spidy vs Electron 2.md",
+    "2026-09-17 Web-Swinging.md",
+    "2026-10-15 Auto Scene.md",
+    "2026-10-14 Interview.md",
+    "2026-09-17_Web-Swinging_Experiment.md",
+    "2026-09-17 Brückenscene_Autorettung.md",
+    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
+    "2026-09-17 Gwen-Stacy_Experiment.md",
+    "2026-09-17 Gwen-Stacy.md",
     "Assets/Screenshot 2026-10-15 165140.png",
     "Assets/Screenshot 2026-10-15 165230.png",
     "Assets/Pasted image 20261015165310.png",
     "Assets/Pasted image 20261015165233.png",
     "Assets/Pasted image 20261015165222.png",
-    "2026-09-17 Brückenscene_Autorettung_Williamsburg Bridge.md",
-    "2026-09-17 Spidy vs Electron.md",
-    "2026-10-15 Auto Scene.md",
     "Assets/Screenshot 2026-10-15 163457.png",
     "Assets/Pasted image 20261015163502.png",
     "Assets/78-02.jpg",
     "Assets/Screenshot 2026-10-15 160302 1.png",
     "Assets/Screenshot 2026-10-15 160334.png",
-    "Assets/Screenshot 2026-10-15 160302.png",
     "2026-09-17 Gwen-Stacy_Experiment Auswertung.md",
-    "2026-09-17 Gwen-Stacy_Experiment.md",
-    "2026-09-17 Gwen-Stacy.md",
     "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
     "Assets/~$Acceleration (without g) 2026-10-15 15-32-17.xlsx",
     "Assets/~$Acceleration (without g) 2026-10-15 15-34-31.xlsx",
@@ -783,13 +811,9 @@
     "Assets/Acceleration (without g) 2026-10-15 15-29-39.xlsx",
     "Assets/Acceleration (without g) 2026-10-15 15-32-17.xlsx",
     "Assets/Acceleration (without g) 2026-10-15 15-34-31.xlsx",
-    "2026-10-14 Interview.md",
     "2026-10-01 Mögliche Fragen für das Interview.md",
-    "2026-09-17_Web-Swinging_Experiment.md",
-    "2026-09-17 Web-Swinging.md",
     "2026-08-22.md",
     "2026-09-17.md",
-    "2026-09-17 Brückenscene_Autorettung.md",
     "Spinnenarten_Nephila Clavipes.md",
     "Spinnenarten.md",
     "2026-09-17 Brückenszene",
