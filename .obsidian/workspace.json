@@ -627,10 +627,14 @@
             "id": "350c299a6d1f6228",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Experiment1 Bilder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiment1 Bilder"
             }
           }
         ],
@@ -801,8 +805,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "58d9d7d8f311180c",
+  "active": "350c299a6d1f6228",
   "lastOpenFiles": [
+    "Assets/WhatsApp Image 2026-10-16 at 12.04.07.jpeg",
+    "Assets/WhatsApp Image 2026-10-16 at 12.04.08 (1).jpeg",
+    "Assets/WhatsApp Image 2026-10-16 at 12.04.08.jpeg",
+    "Assets/WhatsApp Image 2026-10-16 at 12.04.07 (1).jpeg",
+    "2026-09-17.md",
     "Experiment1 Bilder.md",
     "2026-10-15 Auto Scene.md",
     "2026-09-17 Gwen-Stacy.md",
@@ -821,9 +830,6 @@
     "Assets/Pasted image 20261015165222.png",
     "Assets/Screenshot 2026-10-15 163457.png",
     "Assets/Pasted image 20261015163502.png",
-    "Assets/78-02.jpg",
-    "Assets/Screenshot 2026-10-15 160302 1.png",
-    "Assets/Screenshot 2026-10-15 160334.png",
     "2026-09-17 Gwen-Stacy_Experiment Auswertung.md",
     "Physik-Im-Film_W-Seminar-Kevin-Xie 1.pdf",
     "Assets/~$Acceleration (without g) 2026-10-15 15-32-17.xlsx",
@@ -834,7 +840,6 @@
     "Assets/Acceleration (without g) 2026-10-15 15-34-31.xlsx",
     "2026-10-01 Mögliche Fragen für das Interview.md",
     "2026-08-22.md",
-    "2026-09-17.md",
     "Spinnenarten_Nephila Clavipes.md",
     "Spinnenarten.md",
     "2026-09-17 Brückenszene",
@@ -847,7 +852,6 @@
     "README.md",
     "Physikalische Grundlagen.md",
     "Experiment/IMG1.md",
-    "Experiment/Experiment_1.md",
     "Experiment"
   ]
 }
