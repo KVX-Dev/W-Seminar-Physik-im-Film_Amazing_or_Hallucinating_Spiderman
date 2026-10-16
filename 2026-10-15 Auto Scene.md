@@ -42,3 +42,6 @@ https://www.motor-talk.de/bilder/abmessungen-kofferraum-w221-und-w222-s-klasse-g
 15/10/2026 16:35
 ![[Screenshot 2026-10-15 163457.png]]
 Die Halterungen bestehen aus Aluminium mit einem Plastik Gehäuse
+
+
+Beam NG benutzen
